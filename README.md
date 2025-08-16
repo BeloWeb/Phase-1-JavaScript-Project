@@ -6,7 +6,6 @@
 
 - [Prerequisites](#Prerequisites)
 - [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
 
 
 # Prerequisites
