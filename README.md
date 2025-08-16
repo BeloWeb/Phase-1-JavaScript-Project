@@ -7,7 +7,7 @@
 - [Prerequisites](#Prerequisites)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+
 
 # Prerequisites
 
@@ -17,8 +17,6 @@
 
 * Using this app is very simple, all you need to do click the search bar and type in your favorite Rick and Morty character! As a user, you also have the ability to toggle light and dark mode.
 
-
-* blog post: https://dev.to/jvertt/flatiron-phase-1-project-4n50
 
 
 
